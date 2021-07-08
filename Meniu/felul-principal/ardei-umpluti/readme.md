@@ -1,6 +1,6 @@
 # Ardei Umpluti
 
-![Ardei Umpluti](https://raw.githubusercontent.com/nickdba/WebSites/master/receipesro-wp/Meniu/felul-principal/ardei-umpluti/ardei-umpluti.jpg)
+![Ardei Umpluti](./ardei-umplut-servit.jpg)
 
 ## Cuprins
 
@@ -57,8 +57,6 @@
 - Aragaz
 
 <a id="instructiuni"></a>
-
-![Ardei Umplut Servit](https://raw.githubusercontent.com/nickdba/WebSites/master/receipesro-wp/Meniu/felul-principal/ardei-umpluti/ardei-umplut-servit.jpg)
 
 ## Instructiuni
 

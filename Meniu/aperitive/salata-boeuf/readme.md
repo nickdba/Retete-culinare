@@ -1,14 +1,13 @@
+<!-- omit in toc -->
+# Salata Boeuf
 
-
-
+<!-- omit in toc -->
 ## Cuprins
 
-1. [Ingrediente](#ingrediente)
-2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
-3. [Instructiuni](#instructiuni)
-4. [Notite](#notite)
-
-<a id="ingrediente"></a>
+- [Ingrediente](#ingrediente)
+- [Vase, ustensile si aparate](#vase-ustensile-si-aparate)
+- [Instructiuni](#instructiuni)
+- [Notite](#notite)
 
 ## Ingrediente
 
@@ -16,10 +15,22 @@
 - 600-700 g morcovi
 - 600-700 g telina
 - 1 kg cartofi / 5 cartofi medii
-- mazare
-- castraveti murati in otet
+- 200g mazare
+- 300g castraveti murati in otet
+- 500g maioneza
 
-Fierbem cartofii cu sare 20-30 min in functie de soiul si marimea lor.
-Fierbem telina si morcovii in sare 20-30 de minute.
+## Vase, ustensile si aparate
 
+Lighean de bucatarie, lingura de lemn.
 
+## Instructiuni
+
+Fierbeti cartofii cu sare 20-30 min in functie de soiul si marimea lor.
+Fierbeti telina si morcovii in sare 20-30 de minute.
+Fierbeti carnea pana intra usor furculita in ea.
+Daca mazarea e din conserva dati-o doar intr-un clocot.
+Taiati totul cubulete si amestecati cu maioneza in ligheanul de bucatarie.
+
+## Notite
+
+Puteti folosi putina maioneza si albusul de ou la ornat.
