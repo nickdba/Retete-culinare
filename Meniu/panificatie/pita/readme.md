@@ -1,15 +1,17 @@
+<!-- omit in toc -->
 # Pita
 
 Acesta reteta cuprinde ingrediente pentru 10 pite (aproximativ 800g)
 
+<!-- omit in toc -->
 ## Cuprins
 
-1. [Ingrediente](#ingrediente)
-2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
-3. [Instructiuni](#instructiuni)
-4. [Note](#note)
-
-<a id="ingrediente"></a>
+- [Ingrediente](#ingrediente)
+  - [Condimente si plante aromatice](#condimente-si-plante-aromatice)
+  - [Restul de ingrediente](#restul-de-ingrediente)
+- [Vase, ustensile si aparate](#vase-ustensile-si-aparate)
+- [Instructiuni](#instructiuni)
+- [Note](#note)
 
 ## Ingrediente
 
@@ -26,14 +28,10 @@ Acesta reteta cuprinde ingrediente pentru 10 pite (aproximativ 800g)
 - 1 plic de drojdie (7 g )
 - optional 25g de unt
 
-<a id="vase-ustensile-aparate"></a>
-
 ## Vase, ustensile si aparate
 
 Mixer puternic cu bol sau maini dibace.   
 Tigaie de fonta sau de otel cu fundul gros.
-
-<a id="instructiuni"></a>
 
 ## Instructiuni
 
@@ -55,9 +53,9 @@ Prajiti 2-3 minute pe fiecare parte la foc mediu.
 Folositi ulei doar cat sa fie tigaia unsa.
 
 Pofta buna!
-<a id="note"></a>
 
 ## Note
+
 Untul ii da un gust foarte bun pitei dar nu este dietetic si nici de post.
 Cu cat mai multe proteine in faina cu atat trebuie adaugata mai multa apa.  
 Daca aveti aparat de facut paine, il puteti folosi in loc de mixer pentru a face aluatul.  

@@ -7,6 +7,7 @@
 * [Pita](./pita)
 * [Covrigi](./covrigi)
 * [Paine alba](./paine-alba)
+* [Painici cu Branza si Ou (Keto)](./painici-cu-branza-si-ou-keto)
 
 ## Note
 

@@ -1,15 +1,16 @@
+<!-- omit in toc -->
 # Sos Tiganesc
 
 Un sos picant delicios folosit la preparatele din carne.
 
+<!-- omit in toc -->
 ## Cuprins
 
-1. [Ingrediente](#ingrediente)
-2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
-3. [Instructiuni](#instructiuni)
-4. [Notite](#notite)
-
-<a id="ingrediente"></a>
+- [Ingrediente](#ingrediente)
+  - [Condimente si plante aromatice](#condimente-si-plante-aromatice)
+- [Vase, ustensile si aparate](#vase-ustensile-si-aparate)
+- [Instructiuni](#instructiuni)
+- [Notite](#notite)
 
 ## Ingrediente
 
@@ -18,29 +19,25 @@ Un sos picant delicios folosit la preparatele din carne.
 - 2 capatani de usturoi
 - 1 lingura otet
 - 3 liguri ulei
-- 1 ceapa medie (?)
-- 2 linguri bulion (?)
+- 1 ceapa medie
+- 2 linguri bulion
 
 ### Condimente si plante aromatice
 
 - 1 ligurita de cimbru
 - 1 ligurita de piper macinat
-- 1 lingurita de sare
-
-<a id="vase-ustensile-aparate"></a>
+- 2 lingurite de sare
 
 ## Vase, ustensile si aparate
 
 Un blender si un ibric.
 
-<a id="instructiuni"></a>
-
 ## Instructiuni
 
-Punem toate ingredientele in blender si le dam intr-un clocot.
-
-<a id="notite"></a>
+Punem toate ingredientele in blender si le facem pasta.
+Apoi dam totul intr-un clocot.
 
 ## Notite
 
-Prima incercare a iesit detul de buna dar mai trebuie incercata.
+Puteti folosi concentrat de chili pentru a face sosul extra iute.
+Amestecati acest sos cu maioneza in proportie de 4:1 (4 linguri maioneza) pentru a crea un sos de maioneza picant.

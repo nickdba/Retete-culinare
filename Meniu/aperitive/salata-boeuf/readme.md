@@ -29,6 +29,7 @@ Fierbeti cartofii cu sare 20-30 min in functie de soiul si marimea lor.
 Fierbeti telina si morcovii in sare 20-30 de minute.
 Fierbeti carnea pana intra usor furculita in ea.
 Daca mazarea e din conserva dati-o doar intr-un clocot.
+
 Taiati totul cubulete si amestecati cu maioneza in ligheanul de bucatarie.
 
 ## Notite

@@ -1,3 +1,3 @@
 # Sosuri
 
-* [Sos Tiganesc](./sos-tiganesc/)
+* [Sos Tiganesc](./sos-tiganesc)

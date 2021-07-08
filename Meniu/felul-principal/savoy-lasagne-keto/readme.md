@@ -41,6 +41,7 @@ Bol pentru amestecat, tava de cuptor medie, mai adanca, tigaie.
 Desfaceti frunzele de la varza de savoy (taiate de langa cotor), si puneti-le la fiert intr-un vas pentru 10 minute.  
 Scurgeti apa, si lasa frunzele la scurs. Intr-un bol amestecati branza ricotta cu oua si sare dupa gust.  
 Intr-o tigaie puneti carnea tocata la prajit in unt sau untura, apoi adaugati rosiile taiate. Lasati la fiert cam 10 minute.  
+
 In tava de cuptor montati lasagne in straturi dupa cum urmeaza.  
 Puneti un strat de frunze de varza de savoy, deasupra un strat de amestec de carne tocata, apoi un strat de amestec de branza ricota,  
 apoi presara un strat de branza mozzarela rasa. Repeta pana se consuma toate ingredientele.
