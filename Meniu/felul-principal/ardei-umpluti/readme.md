@@ -1,15 +1,19 @@
+<!-- omit in toc -->
 # Ardei Umpluti
 
 ![Ardei Umpluti](./ardei-umplut-servit.jpg)
 
+<!-- omit in toc -->
 ## Cuprins
 
-1. [Ingrediente](#ingrediente)
-2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
-3. [Instructiuni](#instructiuni)
-4. [Notite](#notite)
-
-<a id="ingrediente"></a>
+- [Ingrediente](#ingrediente)
+  - [Condimente si plante aromatice](#condimente-si-plante-aromatice)
+  - [Umplutura](#umplutura)
+  - [Restul](#restul)
+  - [Optional](#optional)
+- [Vase, ustensile si aparate](#vase-ustensile-si-aparate)
+- [Instructiuni](#instructiuni)
+- [Notite](#notite)
 
 ## Ingrediente
 
@@ -45,8 +49,6 @@
 - ardei iute - ciusca
 - zeama de lamaie
 
-<a id="vase-ustensile-aparate"></a>
-
 ## Vase, ustensile si aparate
 
 - Vas de 4 litri
@@ -55,8 +57,6 @@
 - Curatator legume sau cutit de curatat
 - Robot bucatarie cutite
 - Aragaz
-
-<a id="instructiuni"></a>
 
 ## Instructiuni
 
@@ -80,14 +80,8 @@ De asemenea se poate servi cu cateva frunze de patrujel si un ardei iute.
 
 Pofta buna!
 
-<a id="notite"></a>
-
 ## Notite
 
-Slanina afumata da un gust deosebit ardeilor umpluti, recomandam sa nu o sariti.
-
-Daca doriti un gust putin acrisor, puteti adauga zeama de lamaie cu 5 minute inainte de stigerea focului.
-
-Am scris aceasta reteta dupa ce tocmai am terminat de gatit. Si deja am gura apa asteptand sa se raceasca.
-
-Daca v-a ramas prea multa umplutura, puteti face din rest burrito mexicane.
+Slanina afumata da un gust deosebit ardeilor umpluti, recomandam sa nu o sariti.  
+Daca doriti un gust putin acrisor, puteti adauga zeama de lamaie cu 5 minute inainte de stigerea focului.  
+Daca v-a ramas prea multa umplutura, puteti face din rest burrito mexicane.  

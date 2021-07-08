@@ -1,17 +1,18 @@
-# Painici keto cu branza si ou
+<!-- omit in toc -->
+# Painici cu Branza si Ou (Keto)
 
 Aceste painici pot fi facute si sub forme de turte. Daca faceti turte nu adaugati praf de copt.
 
 ![painici keto cu branza si ou](./painici-keto-cu-branza-si-ou.jpg)
 
+<!-- omit in toc -->
 ## Cuprins
 
-1. [Ingrediente](#ingrediente)
-2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
-3. [Instructiuni](#instructiuni)
-4. [Notite](#notite)
-
-<a id="ingrediente"></a>
+- [Ingrediente](#ingrediente)
+  - [Condimente si plante aromatice](#condimente-si-plante-aromatice)
+- [Vase, ustensile si aparate](#vase-ustensile-si-aparate)
+- [Instructiuni](#instructiuni)
+- [Notite](#notite)
 
 ## Ingrediente
 
@@ -28,14 +29,9 @@ Aceste painici pot fi facute si sub forme de turte. Daca faceti turte nu adaugat
 - 1/2 lingurita sare
 - 1 lingurita de chimen/susan
 
-
-<a id="vase-ustensile-aparate"></a>
-
 ## Vase, ustensile si aparate
 
 Bol de sticla termorezistenta si forme mici pentru cuptor.
-
-<a id="instructiuni"></a>
 
 ## Instructiuni
 
@@ -43,9 +39,6 @@ Puneti crema de branza si mozzarella intr-un bol de sticla termorezistenta si in
 Apoi adaugati restul de ingrediente si amestecati totul foarte bine.
 Incalziti cuptorul la 180 grade ventilator. Ungeti formele cu unt si puneti painea in ele.  
 Coaceti painicile pentru 25 de minute. Cand sunt gata, lasati-le 5 min la racit in forme.
-
-
-<a id="notite"></a>
 
 ## Notite
 
