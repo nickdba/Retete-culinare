@@ -1,4 +1,4 @@
-# Savoy Lasagne
+# Lasagne de Savoy
 
 Reteta keto de lasagne cu varza de savoy.
 

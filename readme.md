@@ -1,3 +1,3 @@
 # Retete de Gatit
 
-[Apasati aici pt meniu](./Meniu)
+[Apasati aici pentru Meniu](./Meniu)
