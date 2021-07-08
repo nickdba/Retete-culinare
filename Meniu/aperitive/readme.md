@@ -2,7 +2,7 @@
 
 ## Retete
 
-* [Oua umplute](./oua-umplute)
+* [Salata Boeuf](./salata-boeuf)
 
 ## Note
 
