@@ -1,15 +1,17 @@
+<!-- omit in toc -->
 # Titlu
 
 O scurta descriere.
 
+<!-- omit in toc -->
 ## Cuprins
 
-1. [Ingrediente](#ingrediente)
-2. [Vase, ustensile si aparate](#vase-ustensile-aparate)
-3. [Instructiuni](#instructiuni)
-4. [Notite](#notite)
-
-<a id="ingrediente"></a>
+- [Ingrediente](#ingrediente)
+  - [Condimente si plante aromatice](#condimente-si-plante-aromatice)
+  - [Restul de ingrediente](#restul-de-ingrediente)
+- [Vase, ustensile si aparate](#vase-ustensile-si-aparate)
+- [Instructiuni](#instructiuni)
+- [Notite](#notite)
 
 ## Ingrediente
 
@@ -21,19 +23,13 @@ O scurta descriere.
 
 ### Restul de ingrediente
 
-<a id="vase-ustensile-aparate"></a>
-
 ## Vase, ustensile si aparate
 
 Text pentru vase, ustensile si aparate
 
-<a id="instructiuni"></a>
-
 ## Instructiuni
 
 Text pentru instructiuni.
-
-<a id="notite"></a>
 
 ## Notite
 

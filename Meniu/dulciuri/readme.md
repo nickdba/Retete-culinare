@@ -1,3 +1,4 @@
 # Dulciuri
 
-* [Cozonac Usor](./cozonac-usor/)
+* [Cozonac Usor](./cozonac-usor)
+* [Prajitura cu morcov](./prajitura-cu-morcov-keto)
