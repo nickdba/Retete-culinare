@@ -19,18 +19,18 @@ Prajitura cu morcov este una din cele mai reusite prajituri keto.
 
 ### Condimente si plante aromatice
 
-1/2 lingurita scortisoara (cinamon)
-1/2 lingurita pumpkin spice
-1/4 lingurita praf de copt
-1.5 linguri erythritol (inlocuitor de zahar, indulcitor)
+1/2 lingurita scortisoara  
+1/2 lingurita pumpkin spice  
+1/4 lingurita praf de copt  
+1.5 linguri eritritol (inlocuitor de zahar, indulcitor)
 
 ### Restul de ingrediente
 
-1 ou
-1 lingura unt
-1 lingura lapte de cocos
-2 linguri faina de migdale
-3 linguri de mieji de nuca taiati marunt
+1 ou  
+1 lingura unt  
+1 lingura lapte de cocos  
+2 linguri faina de migdale  
+3 linguri de mieji de nuca taiati marunt  
 1 morcov mediu ras (sau 2 mai mici)
 
 ## Vase, ustensile si aparate
@@ -48,4 +48,4 @@ Puneti la microunde pentru 3-5 minute (Mijocul sa se simta tare la atins) (ex. 3
 ## Notite
 
 Se poate coace si la cuptor, la 180 de grade fan, pentru 20-25 de minute.
-Poate fi servit cu diferite sosuri keto.
+Poate fi servit cu smantana si diferite sosuri keto.
