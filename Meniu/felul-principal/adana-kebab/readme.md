@@ -22,14 +22,17 @@ Cantitatile specificate sunt pentru patru tepuse.
 - 1 lingura boia
 - 1 ligurita cumin
 - 1 lingurita piper
-- 1 lingurita sare roca
+- 2 lingurite sare roca
 - 4-6 catei de usturoi
+- 1 cupa patrunjel
 - 1 ceapa mica (optional)
-- patrunjel
+- 1 lingurita chili (optional)
 
 ### Restul de ingrediente
 
 - 960g carne grasa tocata de miel (240g/tepusa)
+- 2 linguri ulei
+- 1 lingura zeama de lamaie/otet mere
 
 ## Vase, ustensile si aparate
 
