@@ -20,12 +20,12 @@ Cantitatile specificate sunt pentru patru tepuse.
 
 - 1 lingura sumac
 - 1 lingura boia
-- 1 ligurita cumin
+- 1 ligurita coriandru pudra
 - 1 lingurita piper
 - 2 lingurite sare roca
 - 4-6 catei de usturoi
 - 1 cupa patrunjel
-- 1 ceapa mica (optional)
+- 1 ceapa medie
 - 1 lingurita chili (optional)
 
 ### Restul de ingrediente
@@ -42,10 +42,12 @@ Tepuse de gratar late (1-2cm).
 
 Taiati marunt usturoiul, ceapa si patrunjelul in robot.
 Amestecati bine carnea si condimentele.  
-Puneti 240g de amestec pe cate o teputa.
-Frigeti pe gratar 4 minute pe o parte si 3 minute pe cealalata parte.
+Puneti 250g - 400g de amestec pe cate o teputa.
+Frigeti pe gratar 5-10 minute pe o parte si pe cealalata alternand.
+Daca folositi un termometru scoateti carnea pe la un 70 de grade Celsius.  
+
 
 ## Notite
 
-Mielul, gatit prea tare, are un miros puternic. De aceea trebuie avut mare grija sa nu fie crud dar nici prea facut.  
-Pentru gustul romanesc 30% din carne poate fi de vita.
+Mielul, gatit prea tare, are un miros puternic. De aceea trebuie avut mare grija sa nu fie crud dar nici prea facut. 
+Pentru gustul romanesc 30%-40% din carne poate fi de vita.
