@@ -11,6 +11,8 @@
   - [Crema](#crema)
 - [Vase, ustensile si aparate](#vase-ustensile-si-aparate)
 - [Instructiuni](#instructiuni)
+  - [Blat](#blat-1)
+  - [Crema](#crema-1)
 - [Notite](#notite)
 
 ## Ingrediente
@@ -21,7 +23,7 @@
 - 1/2 cupa faina cocos
 - 120 g unt
 - 1 lingura substitut zahar (1:1)
-- 1/2 lingurita xanthan gum
+- 1/2 lingurita guma xantan
 - esenta de vanilie, rom si lamaie
 - sare
 
@@ -31,32 +33,31 @@
 - 150 g frisca lichida grasa
 - 4 oua
 - 4-6 liguri substitut zahar (1:1)
-- 1/4 lingurita xanthan gum
+- 1/4 lingurita guma xantan
 - esenta de vanilie, rom si lamaie 
 
 ## Vase, ustensile si aparate
 
-Forma rotunda de tort.
-Robot de bucatarie cu cutite.
+Forma rotunda de tort.  
+Robot cu cutite de bucatarie.  
 Mixer de bucatarie
 
 ## Instructiuni
 
 ### Blat
 
-Amestecati toate ingredientele in robot la cutite.  
-Intindeti blatul in forma de tort si coaceti la 180 grade C timp de 8 minute pana se rumeneste usor.
+Amestecati toate ingredientele folosind robotul cu cutite.  
+Intindeti blatul in forma de tort si coaceti la 180 grade C, timp de 8 minute, pana se rumeneste usor.
 
 ### Crema
 
-Amestecati 1 lingura zahar cu xanthan gum.  
+Amestecati 1 lingura substitut zahar cu guma xantan.  
 Separat, restul de ingrediente le adaugati pe rand intr-un bol, in timp ce amestecati continuu cu mixerul.  
-La final, incorporati amestecul de xanthan gum.  
-Turnati crema in forma de tort peste blat.
-Se coace la 230 de grade C pentru 10 minute, apoi la 100 de grade pentru 1 ora, sau pana ce temperatura interna ajunge la 65 de grade.
+La final, incorporati amestecul de guma xantan si turnati crema in forma de tort peste blat.  
+Coaceti la 230 de grade C pentru 10 minute, apoi la 100 de grade pentru 1 ora, sau pana ce temperatura interna ajunge la 65 de grade C.
 
 ## Notite
 
-Tava de tort se unge bine si se foloseste folie de copt.  
-Crema trebuie sa aiba compozitia unui iaurt gros ca totusi curge.  
-Se decoreza cu fructe.
+Ungeti bine tava de tort si folositi folie de copt.  
+Crema trebuie sa aiba compozitia unui iaurt gros care totusi curge.  
+Puteti decora cu fructe pentru un aspect placut.
