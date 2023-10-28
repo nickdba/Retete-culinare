@@ -43,8 +43,9 @@ Coaceti painicile pentru 20 de minute. Cand sunt gata, lasati-le 5 min la racit.
 ## Notite
 
 Puteti folosi o lingura de inghetata mare (6 cm diametru) pentru portionare si mulaj.  
-In loc de proteina de soya puteti experimenta si cu alte tipuri de proteina.(mazare sau orez).  
-Valori nutritionale pentru toata cantitatea.
+In loc de proteina de soia puteti experimenta si cu alte tipuri de proteina (mazare sau orez).  
+
+Valori nutritionale pentru toata cantitatea:
 
 - 500 kcal
 - 5.2 g glucide
