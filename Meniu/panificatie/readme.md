@@ -4,6 +4,7 @@
 
 * [Chifle Bavareze](./chifle-bavareze)
 * [Chifle Burger](./chifle-burger)
+* [Chifle Keto cu Proteina](./chifle-keto-proteina)
 * [Pita](./pita)
 * [Covrigi](./covrigi)
 * [Paine alba](./paine-alba)
