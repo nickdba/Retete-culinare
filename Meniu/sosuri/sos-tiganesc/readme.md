@@ -34,7 +34,7 @@ Un blender si un ibric.
 
 ## Instructiuni
 
-Punem toate ingredientele in blender si le facem pasta.
+Punem toate ingredientele in blender si le facem pasta.  
 Apoi dam totul intr-un clocot.
 
 ## Notite

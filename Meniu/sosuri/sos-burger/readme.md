@@ -36,7 +36,7 @@ Un robot de bucatarie cu cutite.
 
 ## Instructiuni
 
-Punem toate ingredientele in robot si le facem sos.
+Punem toate ingredientele in robot si le facem sos.  
 Ajustati dupa gust cat de sarat, acru si iute doriti sosul.
 
 ## Notite
