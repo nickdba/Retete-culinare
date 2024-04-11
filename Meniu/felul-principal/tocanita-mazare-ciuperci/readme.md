@@ -1,6 +1,6 @@
 # Tocanita de mazare cu ciuperci
 
-![tocanita mazare ciuperci](https://raw.githubusercontent.com/nickdba/WebSites/master/receipesro-wp/Meniu/felul-principal/tocanita-mazare-ciuperci/tocanita-mazare-ciuperci.jpg)
+![tocanita mazare ciuperci](./tocanita-mazare-ciuperci.jpg)
 
 ## Cuprins
 
