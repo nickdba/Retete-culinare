@@ -6,4 +6,4 @@
 
 ## Note
 
-* [Decoratii](./decoratii)
+[//]: # "* [Decoratii](./decoratii)"
