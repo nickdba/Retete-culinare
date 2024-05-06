@@ -16,7 +16,7 @@
 - 600-700 g telina
 - 1 kg cartofi / 5 cartofi medii
 - 200g mazare
-- 300g castraveti murati in otet
+- 600-700g castraveti murati in otet
 - 500g maioneza
 
 ## Vase, ustensile si aparate
@@ -30,8 +30,9 @@ Fierbeti telina si morcovii in sare 20-30 de minute.
 Fierbeti carnea pana intra usor furculita in ea.
 Daca mazarea e din conserva dati-o doar intr-un clocot.
 
-Taiati totul cubulete si amestecati cu maioneza in ligheanul de bucatarie.
+Taiati totul in cubulete de 0.5 cm si amestecati cu maioneza in ligheanul de bucatarie.
 
 ## Notite
 
-Puteti folosi putina maioneza si albusul de ou la ornat.
+Puteti folosi putina maioneza si albusul de ou la ornat.  
+Castravetii murati pot fi storsi de zeama dupa ce au fost taiati.

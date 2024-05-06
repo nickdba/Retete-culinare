@@ -24,7 +24,7 @@ Reteta foloseste un aparat de facut paine sau un mixer cu bol, pentru a usura mu
 - 150 g zahar
 - 150 g unt/untura
 - 300 ml lapte
-- 600 g faina de paine
+- 600-700 g faina de paine
 - 2 linguri extract vanilie/ 2 lingurite esenta vanilie
 - 2 linguri rom / 2 lingurite esenta rom
 - 2 pliculete de drojdie instant (14g)
@@ -64,7 +64,7 @@ Modelati cozonacul folosind facaletul si ulei. Faceti 2 rulouri cu umplutura la 
 Lasati in cuptor la creascut cu un ibric de apa fierbinte si cu becul cuptorului aprins, pentru 40-45 de minute.
 Coaceti cozonacul 40-45 de minute in cuptor cu ventilator, la 180 de grade, tava pusa la mijloc sau putin mai jos.
 
-Puteti testa daca este copt cu o scobitoare. Odata scos din cuptor el poate fi lasat 5 minute pe o parte pentru a nu se lasa.
+Puteti testa daca este copt cu un termometru cu sonda, temperatura interioara sa aiba peste 90 grade C. Odata scos din cuptor el poate fi lasat 5 minute pe o parte pentru a nu se lasa.
 Dizolvati putina miere in apa in proportie de 2:1. (2 parti de miere si una de apa). Ungeti partea de sus a cozonacului cu aceasta solutie, prevening uscarea lui si dand un aspect mai placut.
 
 <a id="notite"></a>
