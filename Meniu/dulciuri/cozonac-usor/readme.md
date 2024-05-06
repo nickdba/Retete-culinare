@@ -1,6 +1,6 @@
 # Cozonac Usor de Facut
 
-Folosind aceasta reteta puteti face 1.2 kg aluat de cozonac.
+Folosind aceasta reteta puteti face 1.2 kg aluat de cozonac.  
 Acesta poate fi modelat intr-un cozonac mare. Daca aveti forme foarte mici puteti face 2.  
 Reteta foloseste un aparat de facut paine sau un mixer cu bol, pentru a usura munca considerabil.  
 

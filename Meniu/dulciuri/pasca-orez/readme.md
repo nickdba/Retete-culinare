@@ -1,10 +1,10 @@
-# Cozonac Usor de Facut
+# Pasca cu orez
 
-Aceasta reteta se face de obicei in tandem cu reteta de [cozonac](../cozonac-usor) deoarece aluatul are aceiasi compozitie.
-Folosind aceasta reteta puteti face 1.5 kg de pasca cu orez.
+Aceasta reteta se face de obicei in tandem cu reteta de [cozonac](../cozonac-usor) deoarece aluatul are aceiasi compozitie.  
+Folosind aceasta reteta puteti face 1.5 kg de pasca cu orez.  
 Reteta foloseste un aparat de facut paine si oala sub presiune, pentru a usura munca considerabil.  
 
-![Cozonac](./pasca-orez.jpg)
+![Pasca cu orez](./pasca-orez.jpg)
 
 ## Cuprins
 
@@ -67,7 +67,7 @@ Cat aluatul creste, preparati umplutura.
 
  ...TBC
 
-Modelati aluatul folosind facaletul si faina. Faceti 2 rulouri cu umplutura la mijoc, gen clatite, puneti-le in forma impletite.  
+Modelati aluatul folosind facaletul si faina.
 Lasati in cuptor la creascut cu un ibric de apa fierbinte si cu becul cuptorului aprins, pentru 40-45 de minute.
 Coaceti cozonacul 40-45 de minute in cuptor cu ventilator, la 180 de grade, tava pusa la mijloc sau putin mai jos.
 
