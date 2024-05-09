@@ -67,18 +67,20 @@ Cat aluatul creste, preparati umplutura.
 
  ...TBC
 
-Modelati aluatul folosind facaletul si faina.
-Lasati in cuptor la creascut cu un ibric de apa fierbinte si cu becul cuptorului aprins, pentru 40-45 de minute.
-Coaceti cozonacul 40-45 de minute in cuptor cu ventilator, la 180 de grade, tava pusa la mijloc sau putin mai jos.
+Ungeti bine tava de cuptor.  
+Modelati aluatul folosind facaletul si faina intr-o fasie subtire mare pe care o puneti in tava de cuptor ca o foaie de copt cu marginile putin pe afara.
+Adaugati compozitia in tava si intindeti bine, apoi treceti putin marginile de aluat peste compozitie.
+Coaceti pasca 40-45 de minute in cuptor cu ventilator, la 180 de grade, tava pusa la mijloc sau putin mai jos.
 
-Puteti testa daca este copt cu o scobitoare. Odata scos din cuptor el poate fi lasat 5 minute pe o parte pentru a nu se lasa.
-Dizolvati putina miere in apa in proportie de 2:1. (2 parti de miere si una de apa). Ungeti partea de sus a cozonacului cu aceasta solutie, prevening uscarea lui si dand un aspect mai placut.
+Puteti testa daca este copt cu un termometru cu sonda, temperatura trebuie sa depaseasca 75 de grade in mijloc. 
+Cand testati temperatura puteti unge si cu putin ou batut deasupra pentru aspect. 
+
 
 <a id="notite"></a>
 
 ## Notite
 
-Proportia de ingrediente este de 400 ml lichid la 600 g faina insa cantitatea de faina poate varia considerabil.  
+Proportia de ingrediente pentru aluat este de 400 ml lichid la 600 g faina insa cantitatea de faina poate varia considerabil.  
 Grasimile si galbenusurile se considera jumate din aportul de lichid.  
 Becul cuptorului degaja caldura ce ajuta la cresterea aluatului.  
 Daca drojdia e mai veche, o poti activa mai intai in putina apa cu zahar, pentru siguranta.
