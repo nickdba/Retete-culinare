@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Pate de Ficat
 
-Mai jos gasiti o reteta pentru pate ficat de casa, usor picant, fara extract de drojdie, acid ascorbic si nitrit de sodiu.
+Mai jos gasiti o reteta pentru pate ficat de casa, usor picant, fara extract de drojdie, acid ascorbic si nitrit de sodiu.  
 Aceasta poate fi facuta cu orice combinatie de ficat si carne de vita, porc sau pui.  
 Cantitatile sunt trecute pentru aproximativ 1kg de pate, insa le puteti adapta dupa cum doriti.
 

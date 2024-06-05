@@ -44,14 +44,15 @@ Cantitatile sunt trecute pentru 1 kg de carne, insa personal nu ma lasa inima sa
 ## Instructiuni
 
 Amestecati toate condimentele folosind blenderul si o parte din supa de oase.  
-Amestecati apoi totul laolalta in bol, pana devine pasta de mici.  
-Modelati micii in bucati de 100g fiecare.  
-Lasati micii la rece peste noapte pentru ca aromele sa se omogenizeze.  
-Mici se fac la temperatura ridicata pentru a sigila zeama din ei.  
+Amestecati apoi totul laolalta in bol cu rabdare, pana ce continutul devine pasta de mici.  
+
+Modelati micii in bucati de 100g fiecare si lasati-i la rece peste noapte pentru ca aromele sa se omogenizeze.  
+
+Micii se coc la temperatura ridicata pentru a sigila zeama din ei.  
 Frigeti pe gratar sau in airfryer 5-10 minute pe o parte si inca pe atat pe cealalata, alternand.
 Daca folositi un termometru scoateti carnea in jur 60 de grade Celsius.
 
 ## Notite
 
-Pentru mai multa grasime burta de porc tocata in casa este recomandata.  
-Gatiti micii scosi direct din frigider nu asteptati sa ajunga la temperatura camerei.
+Pentru mai multa grasime se recomanda burta de porc tocata in casa.  
+Gatiti micii scosi direct din frigider, nu asteptati sa ajunga la temperatura camerei.
