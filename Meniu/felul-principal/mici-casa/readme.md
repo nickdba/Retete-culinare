@@ -3,7 +3,7 @@
 
 Mai jos gasiti o reteta pentru mici de casa (fara potentiator de aroma si nitriti de sodiu) din carne de vita.
 Aceasta poate fi facuta cu orice combinatie de carne de vita, porc sau miel.  
-Cantitatile sunt trecute pentru un kg de carne, insa personal nu ma lasa inima sa fac mai putin de 2 kg niciodata.
+Cantitatile sunt trecute pentru 1 kg de carne, insa personal nu ma lasa inima sa fac mai putin de 2 kg niciodata.
 
 <!-- omit in toc -->
 ## Cuprins
@@ -39,16 +39,16 @@ Cantitatile sunt trecute pentru un kg de carne, insa personal nu ma lasa inima s
 
 - Un blender
 - Un bol pentru amestecat 
-- Gratar sau Airfryer
+- Gratar sau airfryer
 
 ## Instructiuni
 
 Amestecati toate condimentele folosind blenderul si o parte din supa de oase.  
-Amestecati apoi totul la olalta in bol pana devine pasta de mici.  
+Amestecati apoi totul laolalta in bol, pana devine pasta de mici.  
 Modelati micii in bucati de 100g fiecare.  
 Lasati micii la rece peste noapte pentru ca aromele sa se omogenizeze.  
 Mici se fac la temperatura ridicata pentru a sigila zeama din ei.  
-Frigeti pe gratar 5-10 minute pe o parte si inca pe atat pe cealalata alternand.
+Frigeti pe gratar sau in airfryer 5-10 minute pe o parte si inca pe atat pe cealalata, alternand.
 Daca folositi un termometru scoateti carnea in jur 60 de grade Celsius.
 
 ## Notite
