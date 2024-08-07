@@ -1,6 +1,7 @@
 # Meniu
 
 * [Aperitive](./aperitive)
+* [Cafea](./coffee)
 * [Felul principal](./felul-principal/)
 * [Dulciuri](./dulciuri/)
 * [Panificatie](./panificatie/)

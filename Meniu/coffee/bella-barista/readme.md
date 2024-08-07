@@ -14,7 +14,7 @@ Tools we used:
 
 Origin: El Salvador / Brazil  
 Plants Variety: Bourbon, Catuai, Typica, Catimor  
-Roast level: 4/5  
+Roast level: 3.5/5  
 Tasting Notes: Milk Chocolate, Fudge, Hazelnuts  
 
 ### Espresso
@@ -24,7 +24,7 @@ After dialing in we found these settings:
 * Dose: 18g⁠
 * Grind Setting: 11
 * Resulting coffee: 36g
-* Brewing time:25
+* Brewing time:25s
 
 ### AeroPress
 
@@ -33,7 +33,7 @@ After dialing in we found this recipe:
 * Brewer Position: Inverted⁠
 * Dose: 18g⁠
 * Grind Setting: 38
-* Water: 100ml, 95°C
+* Water: 100ml, 90°C
 * Filter: 1 Paper Filter, Rinsed⁠
 * Total time: 3:30 out of which 30s stir, 2:30 brew, 30s press
   
