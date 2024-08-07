@@ -39,6 +39,8 @@ After dialing in we found this recipe:
   
 Resulted in 70g of coffee with a good blend of acidity, body and bitterness.
 
+See all the trials [here](./embankment-blend-trials.md).
+
 ## Aurora Blend - Organic Coffee
 
 Origin: Brazil / Colombia / Honduras  

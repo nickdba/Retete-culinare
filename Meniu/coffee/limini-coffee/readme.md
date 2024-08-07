@@ -1,14 +1,61 @@
-# Drojdie si faina
+# Limini coffee
 
-## Drojdia
+Limini Coffee is a friendly small team of passionate caring people who ensure that delicious freshly roasted coffee is being delivered daily throughout the UK.  
+Today, Limini supplies speciality coffee all over the UK to our lovely customers and run courses every single day at our training centre and roastery in West Yorkshire. [Limini Coffee Website](https://www.liminicoffee.co.uk)
 
-* Drojdiei ii place caldura si umiditatea. Puneti la fiert o oala cu apa in timp ce lasati aluatul la crescut. 
-* Folositi apa imbuteliata sau apa filtrata, clorul este daunator drojdiei.
-* Apa trebuie sa fie calduta dar nu clocotita, microorganismele mor la 55+ grade celsius.
-* Adaugati sare cand aluatul e aproape gata, drojdiei nu ii place sarea.
-* Putin zahar ajuta la activarea drojdiei, insa prea mult zahar poate deteriora structura aluatului. 
+Tools we used:
 
-## Faina
+* Coffee Grinder: MiiCoffee DF54
+* Espresso machine: Gaggia Classic Evo (2024) with 9 bar opv mod
+* Portafilter: OMS Gaggia Naked Portafilter
+* Basket: IMS Barista Pro 20g
+* Standard AeroPress
 
-Proteina din faina ajuta la formarea glutenului. Cu cat mai multa proteina cu atat aluatul devine mai elastic.  
-Pentru paine se recomanda faina cu 10 si 14 la suta proteina.
+## Single Origin - Decaf Mexico
+
+Origin: Turquesa, Chiapas, Mexico
+Plants Variety: Bourbon, Typica, Caturra, Catuaí
+Roast level: 3/5
+Altitude: 1000m  
+Tasting Notes: Milk Chocolate, Nutty
+
+### Espresso
+
+After dialing in we found these settings:
+
+* Dose: 18g⁠
+* Grind Setting: 11
+* Resulting coffee: 36g
+* Brewing time:25s
+
+### Single Origin - Colombia
+
+Origin: Medellin, Colombia
+Plants Variety: Bourbon, Typica, Caturra
+Roast level: 2.5/5
+Altitude: N/A 
+Tasting Notes: Milk Chocolate, Nutty
+
+After dialing in we found this recipe:
+
+* Brewer Position: Inverted⁠
+* Dose: 18g⁠
+* Grind Setting: 38
+* Water: 100ml, 90°C
+* Filter: 1 Paper Filter, Rinsed⁠
+* Total time: 3:00 out of which 30s stir, 2:00 brew, 30s press
+  
+Resulted in 70g of coffee with a good blend of acidity, body and bitterness.
+
+See all the trials [here](./decaf-mexico.md).
+
+## Aurora Blend - Organic Coffee
+
+Origin: Brazil / Colombia / Honduras  
+Plants Variety: Catuai, Typica, Caturra, Lempira  
+Roast level: 2/5  
+Tasting Notes: Berry, Citrus, Caramel 
+
+### Espresso
+
+### AeroPress
