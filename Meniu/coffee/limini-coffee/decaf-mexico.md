@@ -2,10 +2,10 @@
 
 ## Single Origin - Decaf Mexico
 
-Origin: Turquesa, Chiapas, Mexico
-Plants Variety: Bourbon, Typica, Caturra, Catuaí
-Roast level: 3/5
-Altitude: 1000m  
+Origin: Turquesa, Chiapas, Mexico  
+Plants Variety: Bourbon, Typica, Caturra, Catuaí  
+Roast level: 3/5  
+Altitude: 1000m   
 Tasting Notes: Milk Chocolate, Nutty
 
 ### Espresso

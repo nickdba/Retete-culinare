@@ -13,11 +13,11 @@ Tools we used:
 
 ## Single Origin - Decaf Mexico
 
-Origin: Turquesa, Chiapas, Mexico
-Plants Variety: Bourbon, Typica, Caturra, Catuaí
-Roast level: 3/5
+Origin: Turquesa, Chiapas, Mexico  
+Plants Variety: Bourbon, Typica, Caturra, Catuaí  
+Roast level: 3/5  
 Altitude: 1000m  
-Tasting Notes: Milk Chocolate, Nutty
+Tasting Notes: Milk Chocolate, Nutty  
 
 ### Espresso
 
@@ -28,13 +28,7 @@ After dialing in we found these settings:
 * Resulting coffee: 36g
 * Brewing time:25s
 
-### Single Origin - Colombia
-
-Origin: Medellin, Colombia
-Plants Variety: Bourbon, Typica, Caturra
-Roast level: 2.5/5
-Altitude: N/A 
-Tasting Notes: Milk Chocolate, Nutty
+### AeroPress  
 
 After dialing in we found this recipe:
 
@@ -49,12 +43,13 @@ Resulted in 70g of coffee with a good blend of acidity, body and bitterness.
 
 See all the trials [here](./decaf-mexico.md).
 
-## Aurora Blend - Organic Coffee
+## Single Origin - Colombia
 
-Origin: Brazil / Colombia / Honduras  
-Plants Variety: Catuai, Typica, Caturra, Lempira  
-Roast level: 2/5  
-Tasting Notes: Berry, Citrus, Caramel 
+Origin: Medellin, Colombia  
+Plants Variety: Bourbon, Typica, Caturra  
+Roast level: 2.5/5  
+Altitude: N/A 
+Tasting Notes: Milk Chocolate, Nutty 
 
 ### Espresso
 
