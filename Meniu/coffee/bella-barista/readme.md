@@ -32,21 +32,21 @@ After dialing in we found this recipe:
 
 * Brewer Position: Inverted⁠
 * Dose: 18g⁠
-* Grind Setting: 38
+* Grind Setting: 39
 * Water: 100ml, 90°C
 * Filter: 1 Paper Filter, Rinsed⁠
-* Total time: 3:30 out of which 30s stir, 2:30 brew, 30s press
+* Total time: 3:00 out of which 30s stir, 2:00 brew, 30s press
   
 Resulted in 70g of coffee with a good blend of acidity, body and bitterness.
 
-See all the trials [here](./embankment-blend-trials.md).
+See all the trials [here](./embankment-blend-trials.md)
 
 ## Aurora Blend - Organic Coffee
 
 Origin: Brazil / Colombia / Honduras  
-Plants Variety: Catuai, Typica, Caturra, Lempira  
+Plants Variety: Catuai, Caturra, Lempira, Typica    
 Roast level: 2/5  
-Tasting Notes: Berry, Citrus, Caramel 
+Tasting Notes: Berry, Citrus, Caramel  
 
 ### Espresso
 
@@ -63,4 +63,6 @@ After dialing in we found this recipe:
 * Filter: 1 Paper Filter, Rinsed⁠
 * Total time: 4:30 out of which 30s stir, 3:30 brew, 30s press
   
-Resulted in 65g of coffee that was light and citrusy.
+Resulted in 65g of coffee that was light and a bit acidic.
+
+See all the trials [here](./aurora-blend-trials.md)

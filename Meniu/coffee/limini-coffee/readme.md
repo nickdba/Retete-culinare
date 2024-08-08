@@ -14,11 +14,11 @@ Tools we used:
 ## Single Origin - Decaf Mexico
 
 Origin: Turquesa, Chiapas, Mexico  
-Plants Variety: Bourbon, Typica, Caturra, Catuaí  
+Plants Variety: Bourbon, Catuaí, Caturra, Typica  
 Roast level: 3/5  
-Altitude: 1000m  
+Altitude: 1000m   
 Tasting Notes: Milk Chocolate, Nutty  
-
+ 
 ### Espresso
 
 After dialing in we found these settings:
@@ -41,15 +41,15 @@ After dialing in we found this recipe:
   
 Resulted in 70g of coffee with a good blend of acidity, body and bitterness.
 
-See all the trials [here](./decaf-mexico.md).
+See all the trials [here](./decaf-mexico-trials.md).
 
 ## Single Origin - Colombia
 
 Origin: Medellin, Colombia  
 Plants Variety: Bourbon, Typica, Caturra  
 Roast level: 2.5/5  
-Altitude: N/A 
-Tasting Notes: Milk Chocolate, Nutty 
+Altitude: N/A  
+Tasting Notes: Milk Chocolate, Nutty   
 
 ### Espresso
 

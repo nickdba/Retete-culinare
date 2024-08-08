@@ -1,9 +1,9 @@
 [<-Back](./)
 
-## Single Origin - Decaf Mexico
+## Decaf Mexico - Dial in Trials
 
 Origin: Turquesa, Chiapas, Mexico  
-Plants Variety: Bourbon, Typica, Caturra, Catuaí  
+Plants Variety: Bourbon, Catuaí, Caturra, Typica  
 Roast level: 3/5  
 Altitude: 1000m   
 Tasting Notes: Milk Chocolate, Nutty

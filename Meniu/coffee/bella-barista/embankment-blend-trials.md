@@ -22,7 +22,42 @@ Tasting Notes: Milk Chocolate, Fudge, Hazelnuts
 
 * Brewer Position: Inverted⁠
 * Dose: 18g⁠
+* Grind Setting: 40
+* Water: 100ml, 95°C
+* Filter: 1 Paper Filter, Rinsed⁠
+* Total time: 2:30 out of which 30s stir, 1:30 brew, 30s press
+
+Coffee was a bit sour and underextracted.
+
+**2nd Try - Selected**
+
+* Brewer Position: Inverted⁠
+* Dose: 18g⁠
+* Grind Setting: 39
+* Water: 100ml, 90°C
+* Filter: 1 Paper Filter, Rinsed⁠
+* Total time: 3:00 out of which 30s stir, 2:00 brew, 30s press
+  
+TBA
+
+**3rd Try - Selected**
+
+* Brewer Position: Inverted⁠
+* Dose: 18g⁠
 * Grind Setting: 38
 * Water: 100ml, 90°C
 * Filter: 1 Paper Filter, Rinsed⁠
-* Total time: 3:30 out of which 30s stir, 2:30 brew, 30s press
+* Total time: 3:00 out of which 30s stir, 2:00 brew, 30s press
+  
+Almost perfect with slight bitter aftertaste.
+
+**4th Try**
+
+* Brewer Position: Inverted⁠
+* Dose: 18g⁠
+* Grind Setting: 35
+* Water: 100ml, 90°C
+* Filter: 1 Paper Filter, Rinsed⁠
+* Total time: 3:00 out of which 30s stir, 2:00 brew, 30s press
+
+Harsh and bitter overtones.
