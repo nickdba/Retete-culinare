@@ -19,17 +19,21 @@ Tasting Notes: Milk Chocolate, Nutty
 
 Tasted sour and under-extracted, not pleasant at all
 
-**2nd Try**
+**2nd Try - Selected**
 
 * Dose: 18g⁠
 * Grind Setting: 11
-* Resulting coffee:
-* Brewing time:
+* Resulting coffee: 37g
+* Brewing time: 29s
+  
+Smelled very good, not pleasant to drink on it's own though.
+The extraction was perfect, there was a strong body blending acidity and sweetness.
+Maybe almond milk needed bit of sugar.
 
 **3rd Try**
 
 * Dose: 18g⁠
-* Grind Setting: 10
+* Grind Setting: 10.5
 * Resulting coffee:
 * Brewing time:
 

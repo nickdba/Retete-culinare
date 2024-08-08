@@ -16,7 +16,7 @@ Tools we used:
 Origin: Turquesa, Chiapas, Mexico  
 Plants Variety: Bourbon, Catuaí, Caturra, Typica  
 Roast level: 3/5  
-Altitude: 1000m   
+Altitude: 1000m (relative low altitude)
 Tasting Notes: Milk Chocolate, Nutty  
  
 ### Espresso
@@ -26,7 +26,7 @@ After dialing in we found these settings:
 * Dose: 18g⁠
 * Grind Setting: 11
 * Resulting coffee: 36g
-* Brewing time:25s
+* Brewing time:28s
 
 ### AeroPress  
 
