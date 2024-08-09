@@ -13,7 +13,7 @@ Tools we used:
 ## Embankment Blend - Organic Coffee
 
 Origin: El Salvador / Brazil  
-Plants Variety: Bourbon, Catuai, Typica, Catimor  
+Plants Variety: Bourbon, Catimor, Catuai, Typica  
 Roast level: 3.5/5  
 Tasting Notes: Milk Chocolate, Fudge, Hazelnuts  
 
@@ -44,7 +44,7 @@ See all the trials [here](./embankment-blend-trials.md)
 ## Aurora Blend - Organic Coffee
 
 Origin: Brazil / Colombia / Honduras  
-Plants Variety: Catuai, Caturra, Lempira, Typica    
+Plants Variety: Catuai, Caturra, Lempira(Catimore), Typica    
 Roast level: 2/5  
 Tasting Notes: Berry, Citrus, Caramel  
 
