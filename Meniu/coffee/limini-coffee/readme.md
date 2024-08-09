@@ -23,6 +23,17 @@ Tasting Notes: Milk Chocolate, Nutty, Sweet
 
 ### AeroPress
 
+* Brewer Position: Inverted⁠
+* Dose: 18g⁠
+* Grind Setting: 35
+* Water: 100ml, 95°C
+* Filter: 1 Paper Filter, Rinsed⁠
+* Total time: 3:20 out of which 30s stir, 2:30 brew, 20s press
+
+Best macchiato ever. Sweet with strong hazelnut and caramel flavours.
+
+See all the trials [here](./medellin-colombia-trials.md)
+
 ## Single Origin - Ethiopia
 
 Origin: Limu, Oromia, Ethiopia  
@@ -34,6 +45,17 @@ Tasting Notes: Fruity, Winey
 ### Espresso
 
 ### AeroPress
+
+* Brewer Position: Inverted⁠
+* Dose: 18g⁠
+* Grind Setting: 34
+* Water: 100ml, 95°C
+* Filter: 1 Paper Filter, Rinsed⁠
+* Total time: 3:30 out of which 30s stir, 2:30 brew, 30s press
+
+Still a tiny sour note for some reason.
+
+See all the trials [here](./limu-ethiopia-trials.md)
 
 ## Single Origin - Decaf Mexico
 
@@ -65,5 +87,5 @@ After dialing in we found this recipe:
   
 Resulted in 70g of coffee with a good blend of acidity, body and bitterness.
 
-See all the trials [here](./decaf-mexico-trials.md).
+See all the trials [here](./decaf-mexico-trials.md)
 

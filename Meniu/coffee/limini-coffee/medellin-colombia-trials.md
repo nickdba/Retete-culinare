@@ -14,8 +14,8 @@ Tasting Notes: Milk Chocolate, Nutty, Sweet
 
 * Dose: 18g⁠
 * Grind Setting: 12
-* Resulting coffee: 40g
-* Brewing time:18s
+* Resulting coffee: 
+* Brewing time:
 
 Tasted sour and under-extracted, not pleasant at all
 
@@ -23,12 +23,8 @@ Tasted sour and under-extracted, not pleasant at all
 
 * Dose: 18g⁠
 * Grind Setting: 11
-* Resulting coffee: 37g
-* Brewing time: 29s
-  
-Smelled very good, not pleasant to drink on it's own though.
-The extraction was perfect, there was a strong body blending acidity and sweetness.
-Maybe almond milk needed bit of sugar.
+* Resulting coffee: 
+* Brewing time:
 
 **3rd Try**
 
@@ -41,10 +37,8 @@ Maybe almond milk needed bit of sugar.
 
 * Dose: 18g⁠
 * Grind Setting: 9
-* Resulting coffee: 7g
-* Brewing time:30s
-  
-Was over-extracted and overly bitter
+* Resulting coffee:
+* Brewing time:
 
 ### AeroPress
 
@@ -52,18 +46,20 @@ Was over-extracted and overly bitter
 
 * Brewer Position: Inverted⁠
 * Dose: 18g⁠
-* Grind Setting: 38
-* Water: 100ml, 90°C
+* Grind Setting: 35
+* Water: 100ml, 95°C
 * Filter: 1 Paper Filter, Rinsed⁠
 * Total time: 3:30 out of which 30s stir, 2:30 brew, 30s press
 
-**2nd Try**
+Amazing aroma but a bit over extracted.
+
+**2nd Try - Selected**
 
 * Brewer Position: Inverted⁠
 * Dose: 18g⁠
 * Grind Setting: 35
 * Water: 100ml, 95°C
 * Filter: 1 Paper Filter, Rinsed⁠
-* Total time: 3:00 out of which 30s stir, 2:00 brew, 30s press
+* Total time: 3:20 out of which 30s stir, 2:30 brew, 20s press
 
-Was over-extracted and overly bitter
+Best macchiato ever. Sweet with strong hazelnut and caramel flavours.
