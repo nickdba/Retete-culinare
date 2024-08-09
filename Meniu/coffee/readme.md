@@ -16,5 +16,4 @@ This section is written in english as the information mainly refers to UK coffee
 * [Coffee Grinders](./coffee-grinders)
 * [Portafilters and Baskets](./portafilters-and-baskets)
 
-A bit o coffee history and plant variety can be found 
-[here](https://theroasterspack.com/pages/coffee-varietals-explained?srsltid=AfmBOoqNJpzvWJKHzbPVtVHE_zEChMUL_kd3RI-pOIxpHxe-Hlbteorr).
+A coffee party idea can be found [here](./coffee-party.md)

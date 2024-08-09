@@ -49,5 +49,7 @@ Fresh roasted beans have peak aroma 1-3 weeks and then they gradually loose the 
 
     **Question 5** What was the most popular breakfast drink before coffee became widely available?  Tea, Beer, Water, Milk, Hot Chocolate
 
-Ref: https://en.wikipedia.org/wiki/History_of_coffee
+Tasting notes: Milk Chocolate, Grapes, Berry, Citrus, Caramel, Fudge, Hazelnuts  
+
+Ref: https://en.wikipedia.org/wiki/History_of_coffee  
 Ref2:https://theroasterspack.com/pages/coffee-varietals-explained?srsltid=AfmBOoqNJpzvWJKHzbPVtVHE_zEChMUL_kd3RI-pOIxpHxe-Hlbteorr
