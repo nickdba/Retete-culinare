@@ -53,3 +53,20 @@ Tasting notes: Milk Chocolate, Grapes, Berry, Citrus, Caramel, Fudge, Hazelnuts
 
 Ref: https://en.wikipedia.org/wiki/History_of_coffee  
 Ref2:https://theroasterspack.com/pages/coffee-varietals-explained?srsltid=AfmBOoqNJpzvWJKHzbPVtVHE_zEChMUL_kd3RI-pOIxpHxe-Hlbteorr
+
+
+Origin: Limu, Oromia, Ethiopia  
+Plants Variety: Wild coffee (Ethiopian Heirloom)  
+Roast level: 2.5/5  
+Altitude: 1600m
+Tasting Notes: Grapes, Berry, Citrus
+
+Body: 3.5, Sweetness 4/5, Acidity 4/5
+
+
+Origin: Brazil / Colombia / Honduras  
+Plants Variety: Catuai, Caturra, Lempira/Catimor, Typica    
+Roast level: 2/5  
+Tasting Notes: Berry, Citrus, Caramel
+
+Body: 3.5, Sweetness 4/5, Acidity 4/5
