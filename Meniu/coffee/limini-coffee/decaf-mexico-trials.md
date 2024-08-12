@@ -8,43 +8,42 @@ Roast level: 3/5
 Altitude: 1000m   
 Tasting Notes: Milk Chocolate, Nutty
 
-### Espresso
+### Espresso - 12 bar opv, dose: 18g⁠
 
 **1st Try**
 
-* Dose: 18g⁠
-* Grind Setting: 12
-* Resulting coffee: 40g
+* Grind Setting: 15
+* Temp: 95°C - 15s heat, 4s steam
+* Resulting coffee: 36g
 * Brewing time:18s
 
-Tasted sour and under-extracted, not pleasant at all
+Tasted overly bitter and over extracted, although the quantity and timings would indicate under.  
+We will decrease the temp, increase grind setting and the extraction quantity.
 
 **2nd Try - Selected**
 
-* Dose: 18g⁠
-* Grind Setting: 11
-* Resulting coffee: 37g
-* Brewing time: 29s
+* Grind Setting: 16
+* Temp: 90°C - 15s heat
+* Resulting coffee: 50g
+* Brewing time:
   
-Smelled very good, not pleasant to drink on it's own though.
-The extraction was perfect, there was a strong body blending acidity and sweetness.
-Maybe almond milk needed bit of sugar.
+
 
 **3rd Try**
 
 * Dose: 18g⁠
-* Grind Setting: 10.5
+* Grind Setting: 15.5
 * Resulting coffee:
 * Brewing time:
 
 **4th Try**
 
 * Dose: 18g⁠
-* Grind Setting: 9
-* Resulting coffee: 7g
-* Brewing time:30s
+* Grind Setting: 16
+* Resulting coffee:
+* Brewing time:
   
-Was over-extracted and overly bitter
+
 
 ### AeroPress
 
@@ -57,7 +56,18 @@ Was over-extracted and overly bitter
 * Filter: 1 Paper Filter, Rinsed⁠
 * Total time: 3:30 out of which 30s stir, 2:30 brew, 30s press
 
-**2nd Try**
+Over-extracted coffee.
+
+**2nd Try - Selected**
+
+* Brewer Position: Inverted⁠
+* Dose: 18g⁠
+* Grind Setting: 38
+* Water: 100ml, 90°C
+* Filter: 1 Paper Filter, Rinsed⁠
+* Total time: 2:30 out of which 30s stir, 1:30 brew, 30s press
+
+**3rd Try**
 
 * Brewer Position: Inverted⁠
 * Dose: 18g⁠

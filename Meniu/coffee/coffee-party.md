@@ -54,6 +54,7 @@ Tasting notes: Milk Chocolate, Grapes, Berry, Citrus, Caramel, Fudge, Hazelnuts
 Ref: https://en.wikipedia.org/wiki/History_of_coffee  
 Ref2:https://theroasterspack.com/pages/coffee-varietals-explained?srsltid=AfmBOoqNJpzvWJKHzbPVtVHE_zEChMUL_kd3RI-pOIxpHxe-Hlbteorr
 
+### Single Origin - Ethiopia
 
 Origin: Limu, Oromia, Ethiopia  
 Plants Variety: Wild coffee (Ethiopian Heirloom)  
@@ -63,6 +64,7 @@ Tasting Notes: Grapes, Berry, Citrus
 
 Body: 3.5, Sweetness 4/5, Acidity 4/5
 
+### Aurora Blend - Organic Coffee
 
 Origin: Brazil / Colombia / Honduras  
 Plants Variety: Catuai, Caturra, Lempira/Catimor, Typica    
@@ -70,3 +72,25 @@ Roast level: 2/5
 Tasting Notes: Berry, Citrus, Caramel
 
 Body: 3.5, Sweetness 4/5, Acidity 4/5
+
+### Single Origin - Colombia
+
+Origin: Medellin, Colombia  
+Plants Variety: Bourbon, Caturra, Typica  
+Roast level: 2.5/5  
+Altitude: 1500m  
+Tasting Notes: Milk Chocolate, Nutty, Sweet
+
+### Limini Limited Blend
+
+Origin: El Salvador / Brazil  
+Plants Variety: Bourbon, Catimor, Catuai, Typica  
+Roast level: 3.5/5  
+Tasting Notes: Dark Chocolate, Plums 
+
+### Embankment Blend - Organic Coffee
+
+Origin: El Salvador / Brazil  
+Plants Variety: Mondo Nouvo, Catuai, Typica
+Roast level: 4/5  
+Tasting Notes: Milk Chocolate, Fudge, Hazelnuts  

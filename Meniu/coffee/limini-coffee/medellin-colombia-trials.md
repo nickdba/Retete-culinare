@@ -8,37 +8,38 @@ Roast level: 2.5/5
 Altitude: 1500m
 Tasting Notes: Milk Chocolate, Nutty, Sweet
 
-### Espresso
+### Espresso - 12 bar opv, dose: 18g⁠
 
 **1st Try**
 
-* Dose: 18g⁠
-* Grind Setting: 12
-* Resulting coffee: 
-* Brewing time:
+* Grind Setting: 16
+* Temp: 95°C - 15s heat, 4s steam
+* Resulting coffee: 48g
+* Brewing time:18s
 
-Tasted sour and under-extracted, not pleasant at all
+A bit under-extracted.
 
 **2nd Try - Selected**
 
-* Dose: 18g⁠
-* Grind Setting: 11
-* Resulting coffee: 
-* Brewing time:
+* Grind Setting: 15
+* Temp: 95°C - 15s heat, 4s steam
+* Resulting coffee: 36g
+* Brewing time:18s
+
 
 **3rd Try**
 
-* Dose: 18g⁠
-* Grind Setting: 10.5
-* Resulting coffee:
-* Brewing time:
+* Grind Setting: 14.5
+* Temp: 95°C - 15s heat, 4s steam
+* Resulting coffee: 36g
+* Brewing time:18s
 
 **4th Try**
 
-* Dose: 18g⁠
-* Grind Setting: 9
-* Resulting coffee:
-* Brewing time:
+* Grind Setting: 
+* Temp: 95°C - 15s heat, 4s steam
+* Resulting coffee: 36g
+* Brewing time:18s
 
 ### AeroPress
 
