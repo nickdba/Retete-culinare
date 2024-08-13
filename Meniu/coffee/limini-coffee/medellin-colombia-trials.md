@@ -13,7 +13,7 @@ Tasting Notes: Milk Chocolate, Nutty, Sweet
 **1st Try**
 
 * Grind Setting: 15
-* Temp: 95°C - 15s heat, 4s steam
+* Temp: 92°C - 15s heat, 4s steam
 * Resulting coffee: 48g
 * Brewing time:15s
 
@@ -22,7 +22,7 @@ Under-extracted.
 **2nd Try - Selected**
 
 * Grind Setting: 14
-* Temp: 95°C - 15s heat, 4s steam
+* Temp: 92°C - 15s heat, 4s steam
 * Resulting coffee: 48g
 * Brewing time:18s
 
@@ -31,7 +31,7 @@ Under-extracted.
 **3rd Try**
 
 * Grind Setting: 13
-* Temp: 95°C - 15s heat, 4s steam
+* Temp: 92°C - 15s heat, 4s steam
 * Resulting coffee: 48g
 * Brewing time:23s
 
@@ -41,8 +41,8 @@ But the timing was also a bit off.
 **4th Try**
 
 * Grind Setting: 12
-* Temp: 95°C - 15s heat, 4s steam
-* Resulting coffee: 40g
+* Temp: 96°C - 15s heat, 10s steam
+* Resulting coffee:
 * Brewing time:
 
 ### AeroPress

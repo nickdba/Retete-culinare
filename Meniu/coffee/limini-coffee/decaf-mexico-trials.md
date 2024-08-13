@@ -12,37 +12,39 @@ Tasting Notes: Milk Chocolate, Nutty
 
 **1st Try**
 
-* Grind Setting: 15
-* Temp: 95°C - 15s heat, 4s steam
-* Resulting coffee: 36g
-* Brewing time:18s
+* Grind Setting: 16
+* Temp: 92°C - 15s heat, 4s steam
+* Resulting coffee: 48g
+* Brewing time:10s
 
-Tasted overly bitter and over extracted, although the quantity and timings would indicate under.  
-We will decrease the temp, increase grind setting and the extraction quantity.
+Tasted overly bitter, although the quantity and timings would indicate under.  
+We will decrease the temp, grind thinner and increase extraction quantity.
 
 **2nd Try - Selected**
 
-* Grind Setting: 16
-* Temp: 90°C - 15s heat
-* Resulting coffee: 50g
-* Brewing time:
+* Grind Setting: 15
+* Temp: 89°C - 15s heat
+* Resulting coffee: 48g
+* Brewing time: 18
   
-
+Still bitter but I can fell the sourness as well.It has a strong kick.
 
 **3rd Try**
 
-* Dose: 18g⁠
-* Grind Setting: 15.5
-* Resulting coffee:
-* Brewing time:
-
-**4th Try**
-
-* Dose: 18g⁠
-* Grind Setting: 16
-* Resulting coffee:
-* Brewing time:
+* Grind Setting: 12
+* Temp: 89°C - 15s heat
+* Resulting coffee: 40g
+* Brewing time: 27s
   
+The coffee feels like a darker roast than 3/5. Good with lattes and cappuccinos, less with macchiato.
+This setting is the best so far. I will try half step coarser and maybe ever lower temp.
+
+**4th Try - Selected**
+
+* Grind Setting: 12.5
+* Temp: 87°C - 10s heat
+* Resulting coffee:
+* Brewing time:
 
 
 ### AeroPress
