@@ -10,8 +10,8 @@ Pros:
 
 Cons:
 
-* I tried a sample Ethiopian espresso at the Wakefield center and it was muddy (indicating problems with the brewing process)
-* They could do a bit of better quality control, as few beans were not roasted properly.
+* I tried a sample of Ethiopian espresso at the Wakefield center and it was muddy (indicating problems with the brewing process)
+* They could do a bit better quality control, as few beans were not roasted properly and had to be discarded.
 * I would like more info on the blends such as origins and plants variety.
 
 
@@ -25,16 +25,17 @@ Tools we used:
 
 ## House Blend
 
-Origin: Unknown
-Plants Variety: Unknown
+Origin: Unknown  
+Plants Variety: Unknown  
 Roast level: 4/5  
-Tasting Notes: Chocolate, Toffee and Blackcurrant 
+Tasting Notes: Chocolate, Toffee and Blackcurrant  
 
 ### Espresso - 12 bar opv, dose: 18g⁠
 
 After dialing in we found these settings:
 
 * Grind Setting: 16
+* Temp: 92°C
 * Resulting coffee:
 * Brewing time:
 
@@ -45,7 +46,7 @@ After dialing in we found this recipe:
 * Brewer Position: Inverted⁠
 * Dose: 18g⁠
 * Grind Setting:
-* Water: 100ml, 90°C
+* Water: 100ml, 92°C
 * Filter: 1 Paper Filter, Rinsed⁠
 * Total time:
   
