@@ -6,9 +6,10 @@ This section is written in english as the information mainly refers to UK coffee
 
 * [Bella Barista](./bella-barista)
 * [Limini Coffee](./limini-coffee)
-* [North Star Coffee](./north-star-coffee)
 * [Recent Beans](./recent-beans)
-* [SuperMarket Coffee](./supermarket-coffe)
+
+[//]: # "* [North Star Coffee](./north-star-coffee)"
+[//]: # "* [SuperMarket Coffee](./supermarket-coffe)"
 
 ## Barista tools
 
