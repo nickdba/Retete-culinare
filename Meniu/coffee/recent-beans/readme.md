@@ -7,7 +7,7 @@ It is a small company with two roasters one in Wakefield and one in Castleford. 
 Pros:
 
 * The quality of coffee bags is amazing, I feel confident to keep the coffee in them.
-* Free 24h shipping with royal mail on orders over 7£. Which mean you can have a 250g subscription every 2 weeks without paying more.
+* Free 24h shipping with royal mail on orders over 7£. Which means you can have a 250g subscription every 2 weeks without paying more.
 * They tend to do darker roast for those who prefer it.
 
 Cons:
