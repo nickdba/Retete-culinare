@@ -38,8 +38,11 @@ After dialing in we found these settings:
 
 * Grind Setting: 16
 * Temp: 92°C
-* Resulting coffee:
-* Brewing time:
+* Resulting coffee: 37g
+* Brewing time: 25s
+
+The extraction had a single spur at the end, but the rest was almost perfect.The taste had balanced flavours.  
+Strong aroma coffee designed for milky drinks such as cappuccinos.
 
 ### AeroPress
 

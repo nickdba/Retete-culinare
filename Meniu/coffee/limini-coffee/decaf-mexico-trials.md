@@ -10,6 +10,15 @@ Tasting Notes: Milk Chocolate, Nutty
 
 ### Espresso - 12 bar opv, dose: 18g⁠
 
+We tried the following temp surfing method:  
+Preheat the machine for 15-20 min and flush the head until light goes off.  
+Wait for the light again. From here we have some options:
+
+* Press brew immediately ~ 85°C
+* Wait 10s, then press brew ~ 88°C 
+* Wait 10s, press steam for 5s, then press brew ~ 92°C
+* Wait 10s, press steam for 5s, wait 5s, then press brew ~ 96°C
+
 **1st Try**
 
 * Grind Setting: 16
@@ -23,7 +32,7 @@ We will decrease the temp, grind thinner and increase extraction quantity.
 **2nd Try - Selected**
 
 * Grind Setting: 15
-* Temp: 89°C - 15s heat
+* Temp: 88°C - 15s heat
 * Resulting coffee: 48g
 * Brewing time: 18
   
@@ -32,19 +41,29 @@ Still bitter but I can fell the sourness as well.It has a strong kick.
 **3rd Try**
 
 * Grind Setting: 12
-* Temp: 89°C - 15s heat
+* Temp: 88°C - 15s heat
 * Resulting coffee: 40g
 * Brewing time: 27s
   
 The coffee feels like a darker roast than 3/5. Good with lattes and cappuccinos, less with macchiato.
-This setting is the best so far. I will try half step coarser and maybe ever lower temp.
+This setting is the best so far but felt sour.
 
 **4th Try - Selected**
 
-* Grind Setting: 12.5
-* Temp: 87°C - 10s heat
+* Grind Setting: 11.5
+* Temp: 88°C - 10s heat
+* Resulting coffee: 37g
+* Brewing time: 26s
+
+The best so far ... still sour. I don't think I can get an amazing coffee out of this.
+
+**5th Try - Selected**
+
+* Grind Setting: 11.5
+* Temp: 92°C - 10s heat
 * Resulting coffee:
 * Brewing time:
+
 
 
 ### AeroPress

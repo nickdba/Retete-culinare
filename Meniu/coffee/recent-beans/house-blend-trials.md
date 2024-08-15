@@ -10,13 +10,13 @@ Tasting Notes: Chocolate, Toffee and Blackcurrant
 ### Espresso - 12 bar opv, dose: 18g⁠
 
 We tried the following temp surfing method:  
-Preheat the machine for 15 min and flush the head until light goes off.  
+Preheat the machine for 15-20 min and flush the head until light goes off.  
 Wait for the light again. From here we have some options:
 
 * Press brew immediately ~ 85°C
 * Wait 10s, then press brew ~ 88°C 
 * Wait 10s, press steam for 5s, then press brew ~ 92°C
-* Wait 10s, press steam for 10s, then press brew ~ 96°C
+* Wait 10s, press steam for 5s, wait 5s, then press brew ~ 96°C
 
 **1st Try**
 
@@ -42,10 +42,11 @@ We will coarsen the grind and increase the temperature.
 
 * Grind Setting: 16
 * Temp: 92°C
-* Resulting coffee: 
-* Brewing time:
+* Resulting coffee: 37g
+* Brewing time: 25s
 
-
+The extraction had a single spur at the end, but the rest was almost perfect.The taste had balanced flavours.  
+Strong aroma coffee designed for milky drinks such as cappuccinos.
 
 ### AeroPress
 
@@ -58,36 +59,4 @@ We will coarsen the grind and increase the temperature.
 * Filter: 1 Paper Filter, Rinsed⁠
 * Total time: 
 
-
-**2nd Try - Selected**
-
-* Brewer Position: Inverted⁠
-* Dose: 18g⁠
-* Grind Setting: 39
-* Water: 100ml, 90°C
-* Filter: 1 Paper Filter, Rinsed⁠
-* Total time: 
-  
 TBA
-
-**3rd Try - Selected**
-
-* Brewer Position: Inverted⁠
-* Dose: 18g⁠
-* Grind Setting: 38
-* Water: 100ml, 90°C
-* Filter: 1 Paper Filter, Rinsed⁠
-* Total time: 
-  
-TBA
-
-**4th Try**
-
-* Brewer Position: Inverted⁠
-* Dose: 18g⁠
-* Grind Setting: 35
-* Water: 100ml, 90°C
-* Filter: 1 Paper Filter, Rinsed⁠
-* Total time: 3:00 out of which 30s stir, 2:00 brew, 30s press
-
-Harsh and bitter overtones.

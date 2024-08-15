@@ -2,8 +2,16 @@
 
 # Limini coffee
 
-Limini Coffee is a friendly small team of passionate caring people who ensure that delicious freshly roasted coffee is being delivered daily throughout the UK.  
-Today, Limini supplies speciality coffee all over the UK to our lovely customers and run courses every single day at our training centre and roastery in West Yorkshire. [Limini Coffee Website](https://www.liminicoffee.co.uk)
+Locates south of Brandford, Limini Coffee is a roaster with small friendly team. They also have a training center. [Limini Coffee Website](https://www.liminicoffee.co.uk)
+
+Pros:
+
+* They have very good prices.
+* They tend to do lither roasts for those who prefer it.
+
+Cons:
+
+* Free 24h shipping with royal mail on orders over 25£. The competition does better.
 
 Tools we used:
 
