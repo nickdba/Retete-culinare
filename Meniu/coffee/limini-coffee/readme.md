@@ -99,3 +99,23 @@ Resulted in 70g of coffee with a good blend of acidity, body and bitterness.
 
 See all the trials [here](./decaf-mexico-trials.md)
 
+## Limited Roast Blend - El Salvador, Brazil
+
+Blend: El Salvador, Brazil  
+Plants Variety: Typica
+Roast level: 3.5/5  
+Altitude: Unknown   
+Tasting Notes: Milk Chocolate
+ 
+### Espresso - 12 bar opv, dose: 18g⁠
+
+After dialing in we found these settings:
+
+* Grind Setting: 14
+* Temp: 92°C
+* Resulting coffee: 40g
+* Brewing time:
+
+See all the trials [here](./elsalvador-brazil-trials.md)
+
+

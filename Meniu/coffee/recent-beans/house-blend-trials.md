@@ -9,15 +9,6 @@ Tasting Notes: Chocolate, Toffee and Blackcurrant
 
 ### Espresso - 12 bar opv, dose: 18g⁠
 
-We tried the following temp surfing method:  
-Preheat the machine for 15-20 min and flush the head until light goes off.  
-Wait for the light again. From here we have some options:
-
-* Press brew immediately ~ 85°C
-* Wait 10s, then press brew ~ 88°C 
-* Wait 10s, press steam for 5s, then press brew ~ 92°C
-* Wait 10s, press steam for 5s, wait 5s, then press brew ~ 96°C
-
 **1st Try**
 
 * Grind Setting: 12
