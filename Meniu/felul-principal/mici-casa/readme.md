@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Mici de Casa
 
-Mai jos gasiti o reteta pentru mici de casa (fara potentiator de aroma si nitriti de sodiu) din carne de vita.
+Mai jos gasiti o reteta pentru mici de casa (fara potentiator de aroma si nitriti de sodiu) din carne de vita.  
 Aceasta poate fi facuta cu orice combinatie de carne de vita, porc sau miel.  
 Cantitatile sunt trecute pentru 1 kg de carne, insa personal nu ma lasa inima sa fac mai putin de 2 kg niciodata.
 

@@ -51,7 +51,7 @@ The aromas were crisp and clear.
 * Filter: 1 Paper Filter, Rinsed⁠
 * Total time: 2:30 out of which 30s stir, 1:30 brew, 30s press
 
-Coffee was a bit sour and underextracted.
+Coffee was a bit sour and under-extracted.
 
 **2nd Try - Selected**
 
