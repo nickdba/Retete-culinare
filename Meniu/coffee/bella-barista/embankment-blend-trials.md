@@ -1,20 +1,44 @@
 [<-Back](./)
 
-## Embankment Blend - Dial in Trials
+## Embankment Blend - Dial-in Trials
 
 Origin: El Salvador / Brazil  
 Plants Variety: Bourbon, Catuai, Typica, Catimor  
 Roast level: 3.5/5  
 Tasting Notes: Milk Chocolate, Fudge, Hazelnuts  
 
-### Espresso
+### Espresso - 12 bar opv, dose: 18g
 
 **1st Try**
 
-* Dose: 18g⁠
-* Grind Setting: 11
-* Resulting coffee: 36g
-* Brewing time:25s
+* Grind Setting: 12
+* Temp: 90°C
+* Resulting coffee: 38g
+* Brewing time: 28s
+* Other: with puck screen⁠
+
+The coffee was nice but the flavours a bit muted.
+Will try to increase temp.
+
+**2nd Try**
+
+* Grind Setting: 12
+* Temp: 93°C
+* Resulting coffee: 40g
+* Brewing time: 30s
+* Other: puck screen⁠
+
+The aromas were a bit too harsh.
+
+**3rd Try - Selected**
+
+* Grind Setting: 12
+* Temp: 90°C
+* Resulting coffee: 38g
+* Brewing time: 30s
+* Other: puck screen⁠, 2 sprays
+
+The aromas were crisp and clear.
 
 ### AeroPress
 

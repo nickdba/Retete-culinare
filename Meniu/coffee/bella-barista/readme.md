@@ -19,14 +19,17 @@ Plants Variety: Bourbon, Catimor, Catuai, Typica
 Roast level: 3.5/5  
 Tasting Notes: Milk Chocolate, Fudge, Hazelnuts  
 
-### Espresso
+### Espresso - 12 bar opv, dose: 18g
 
 After dialing in we found these settings:
 
-* Dose: 18g⁠
-* Grind Setting: 11
-* Resulting coffee: 36g
-* Brewing time:25s
+* Grind Setting: 12
+* Temp: 90°C
+* Resulting coffee: 38g
+* Brewing time: 30s
+* Other: puck screen⁠, 2 sprays
+
+The aromas were crisp and clear.
 
 ### AeroPress
 

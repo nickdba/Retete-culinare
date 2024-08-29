@@ -107,14 +107,16 @@ Roast level: 3.5/5
 Altitude: Unknown   
 Tasting Notes: Milk Chocolate
  
-### Espresso - 12 bar opv, dose: 18g⁠
+### Espresso - 12 bar opv, dose: 19g⁠
 
 After dialing in we found these settings:
 
 * Grind Setting: 14
-* Temp: 92°C
-* Resulting coffee: 40g
-* Brewing time:
+* Temp: 90°C
+* Resulting coffee: 36g
+* Brewing time: 30s
+
+Very nice and crisp aromas.
 
 See all the trials [here](./elsalvador-brazil-trials.md)
 

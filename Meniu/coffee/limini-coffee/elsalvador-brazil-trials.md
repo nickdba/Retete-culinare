@@ -35,21 +35,34 @@ Nice aroma, bitter after taste.
 * Resulting coffee: 40g
 * Brewing time: 27s
   
-TBA
+Still a bit over-extracted. Will keep the grind and lower temp.
 
 **4th Try - Selected**
 
 * Grind Setting: 14
-* Temp: 95°C
-* Resulting coffee: 
-* Brewing time:
+* Temp: 90°C
+* Resulting coffee: 38g
+* Brewing time: 24s
 
-TBA
+A nice tasting coffee. The aroma is a bit muddy though.
+Will try and change the quantity and times.
 
-**5th Try - Selected**
+### Espresso - 12 bar opv, dose: 19g⁠
 
-* Grind Setting: 11.5
-* Temp: 92°C - 10s heat
-* Resulting coffee:
-* Brewing time:
+**5th Try**
 
+* Grind Setting: 15
+* Temp: 90°C
+* Resulting coffee: 38g
+* Brewing time: 24s
+
+Coffee was a bit under-extracted but with richer body.
+
+**6th Try - Selected**
+
+* Grind Setting: 14
+* Temp: 90°C
+* Resulting coffee: 36g
+* Brewing time: 30s
+
+The best extraction so far. Very nice and crisp aromas.
