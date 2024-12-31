@@ -11,23 +11,23 @@
 
 ## Ingrediente
 
-- 1 kg carne de vita
-- 600-700 g morcovi
-- 600-700 g telina
-- 1 kg cartofi / 5 cartofi medii
-- 200g mazare
-- 600-700g castraveti murati in otet
+- 1kg carne de vita
+- 500g morcovi
+- 500g telina
+- 1kg cartofi
+- 150g mazare
+- 500g castraveti murati in otet
 - 500g maioneza
 
 ## Vase, ustensile si aparate
 
-Lighean de bucatarie, lingura de lemn.
+Pressure cooker, lighean de bucatarie, lingura de lemn.
 
 ## Instructiuni
 
 Fierbeti cartofii cu sare 20-30 min in functie de soiul si marimea lor.
 Fierbeti telina si morcovii in sare 20-30 de minute.
-Fierbeti carnea pana intra usor furculita in ea.
+Fierbeti carnea pana intra usor furculita in ea. (Folositi pressure cooker)
 Daca mazarea e din conserva dati-o doar intr-un clocot.
 
 Taiati totul in cubulete de 0.5 cm si amestecati cu maioneza in ligheanul de bucatarie.
