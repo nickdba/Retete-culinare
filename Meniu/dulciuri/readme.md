@@ -1,6 +1,7 @@
 # Dulciuri
 
 * [Cheese Cake Keto](./cheese-cake-keto)
+* [Clatite](./clatite)
 * [Coliva](./coliva)
 * [Cozonac Usor](./cozonac-usor)
 * [Pasca cu Orez](./pasca-orez)
