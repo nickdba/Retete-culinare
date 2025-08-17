@@ -5,6 +5,7 @@
 * [Felul principal](./felul-principal/)
 * [Dulciuri](./dulciuri/)
 * [Panificatie](./panificatie/)
+* [Preparate-carne](./preparate-carne/)
 * [Sosuri](./sosuri/)
 * [Muraturi](./muraturi)
 

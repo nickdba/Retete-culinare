@@ -2,9 +2,9 @@
 
 ## Retete
 
-* [Caltabosi](./caltabosi/readme.md)
-* [Italian Meatball](./italian-meatball/readme.md)
-* [Chorizo Mexican](./chorizo-mexican/readme.md)
-* [Chorizo Spaniol](./chorizo-spaniol/readme.md)
-* [Traditionali](./traditionali/readme.md)
+* [Caltabosi](./caltabosi)
+* [Italian Meatball](./italian-meatball)
+* [Chorizo Mexican](./chorizo-mexican)
+* [Chorizo Spaniol](./chorizo-spaniol)
+* [Traditionali](./traditionali)
 
