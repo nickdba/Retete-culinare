@@ -17,7 +17,7 @@ Pentru varianta uscata cititi notitele.
 - 15g paprika
 - 15g sare
 - 4g usturoi granulat
-- 1.5g chili
+- 3g chili
 - 1g piper
 - 1g coriandru seminte macinate
 - 0.5g oregano
