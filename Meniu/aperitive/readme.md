@@ -1,5 +1,7 @@
 # Aperitive
 
+[<- Inapoi](../)
+
 ## Retete
 
 * [Pate de ficat](./pate-ficat)

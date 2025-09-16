@@ -1,6 +1,6 @@
 # Preparate carne de porc
 
-[<-Inapoi](../)
+[<- Inapoi](../)
 
 ## Retete
 

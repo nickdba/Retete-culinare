@@ -1,5 +1,9 @@
 # Felul principal
 
+[<- Inapoi](../)
+
+## Retete
+
 * [Ardei Umpluti](./ardei-umpluti)
 * [Aripi Picante la Cuptor](./aripi-picante-la-cuptor)
 * [Lasagne de Savoy (Keto)](./savoy-lasagne-keto)

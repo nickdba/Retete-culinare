@@ -1,5 +1,5 @@
 # Pui
 
-[<-Inapoi](../)
+[<- Inapoi](../)
 
 Recipe placeholder for Pui.

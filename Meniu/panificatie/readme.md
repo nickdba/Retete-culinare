@@ -1,5 +1,7 @@
 # Panificatie
 
+[<- Inapoi](../)
+
 ## Retete
 
 * [Chifle Keto cu Proteina](./chifle-keto-proteina)

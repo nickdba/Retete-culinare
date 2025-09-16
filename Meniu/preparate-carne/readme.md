@@ -1,5 +1,7 @@
 # Preparate carne
 
+[<- Inapoi](../)
+
 ## Retete
 
 * [Burgeri](./burgeri)

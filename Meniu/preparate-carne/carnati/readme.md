@@ -1,6 +1,6 @@
 # Carnati
 
-[<-Inapoi](../)
+[<- Inapoi](../)
 
 ## Retete
 

@@ -1,6 +1,6 @@
 # Mici Si Kebabs
 
-[<-Inapoi](../)
+[<- Inapoi](../)
 
 ## Retete
 

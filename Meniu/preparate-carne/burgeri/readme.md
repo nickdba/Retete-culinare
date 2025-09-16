@@ -1,5 +1,5 @@
 # Burgeri
 
-[<-Inapoi](../)
+[<- Inapoi](../)
 
 Recipe placeholder for Burgeri.
