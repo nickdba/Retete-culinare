@@ -22,8 +22,9 @@ O varianta a retetei traditionale romanesti de carnati cu usturoi, preparata in 
 ## Instructiuni
 
 Amestecati bine toate ingredientele intr-un bol mare, pana cand compozitia devine omogena si carnea capata o textura lipicioasa.  
-Umpleti matele de porc (naturale sau din colagen) cu amestecul obtinut, folosind o masina de umplut carnati.
+Umpleti matele de porc (naturale sau din colagen) cu amestecul obtinut, folosind o masina de umplut carnati.  
+Lasati carnatii la rece peste noapte pentru a permite intrepatrunderea aromelor.
 
 ## Notite
 
-Se pot servi prajiti in tigaie sau pe carbune impreuna cu mamaliga.
+Se pot servi prajiti in tigaie si/sau pe gratar alaturi de mamaliga.

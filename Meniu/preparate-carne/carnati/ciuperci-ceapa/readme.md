@@ -27,7 +27,8 @@ O varianta de carnati din carne de vita si porc cu ceapa si ciuperci.
 Tocati ciupercile si ceapa cu ajutorul unui robot de bucatarie, apoi sotati amestecul intr-o tigaie antiaderenta timp de 15 minute, pentru a extrage cat mai mult lichid.  
 Procesati usturoiul impreuna cu apa in blender, pana obtineti o pasta fina.  
 Amestecati bine toate ingredientele intr-un bol mare, pana cand compozitia devine omogena si carnea capata o textura lipicioasa.  
-Umpleti matele de porc (naturale sau din colagen) cu amestecul de ingrediente, folosind o masina de umplut carnati.
+Umpleti matele de porc (naturale sau din colagen) cu amestecul de ingrediente, folosind o masina de umplut carnati.  
+Lasati carnatii la rece peste noapte pentru a permite intrepatrunderea aromelor.
 
 ## Notite
 

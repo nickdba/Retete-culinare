@@ -24,7 +24,8 @@ Pentru varianta uscata cititi notitele.
 ## Instructiuni
 
 Amestecati bine toate ingredientele intr-un bol mare, pana cand compozitia devine omogena si carnea capata o textura lipicioasa.  
-Umpleti matele de porc (naturale sau din colagen) cu amestecul de ingrediente, folosind o masina de umplut carnati.
+Umpleti matele de porc (naturale sau din colagen) cu amestecul de ingrediente, folosind o masina de umplut carnati.  
+Lasati carnatii la rece peste noapte pentru a permite intrepatrunderea aromelor.
 
 ## Notite
 

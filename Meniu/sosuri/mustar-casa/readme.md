@@ -1,7 +1,7 @@
 # Mustar de casa
 
 Un mustar delicios preparat in casa.  
-Aceasta reteta produce aproximativ 600g de mustar, suficient pentru 3 borcane.
+Aceasta reteta produce aproximativ 500g de mustar, suficient pentru 2 borcane de mustar.
 
 ## Cuprins
 

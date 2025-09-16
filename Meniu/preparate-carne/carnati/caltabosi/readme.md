@@ -29,7 +29,8 @@ Multi evita sa faca sarmale din cauza duratei impaturirii. Aceasta reteta ofera 
 
 Curatati morcovul si telina, apoi dati-le prin razatoare. Spalati bine orezul.  
 Amestecati toate ingredientele intr-un bol incapator, pana cand compozitia devine omogena si carnea capata o textura lipicioasa.  
-Umpleti matele de porc (naturale sau din colagen) cu amestecul obtinut, folosind o masina de umplut carnati.
+Umpleti matele de porc (naturale sau din colagen) cu amestecul obtinut, folosind o masina de umplut carnati.  
+Lasati carnatii la rece peste noapte pentru a permite intrepatrunderea aromelor.
 
 ## Notite
 

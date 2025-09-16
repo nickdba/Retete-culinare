@@ -1,5 +1,7 @@
 # Carnati
 
+[<-Inapoi](../)
+
 ## Retete
 
 * [Caltabosi](./caltabosi)
