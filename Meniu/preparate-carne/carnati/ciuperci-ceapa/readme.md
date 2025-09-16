@@ -1,4 +1,4 @@
-# Carnati carne mix cu ciuperci
+# Carnati cu ciuperci si ceapa
 
 O varianta de carnati din carne de vita si porc cu ceapa si ciuperci.
 
@@ -14,7 +14,7 @@ O varianta de carnati din carne de vita si porc cu ceapa si ciuperci.
 - 400g carne vita
 - 200g ciuperci
 - 15g sare
-- 10g ceapa
+- 20g ceapa
 - 10g usturoi
 - 4g paprika
 - 1.5g chili

@@ -4,5 +4,5 @@
 
 * [Burgeri](./burgeri)
 * [Carnati](./carnati)
-* [Mici](./mici)
-* [Pui](./pui)
+* [Mici si Kebabs](./mici-kebab/)
+* [Pui si Curcan](./pui-curcan)

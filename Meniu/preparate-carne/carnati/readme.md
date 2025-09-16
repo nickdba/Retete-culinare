@@ -2,11 +2,10 @@
 
 ## Retete
 
-* [Adana Kebab](./adana-kebab/)
 * [Caltabosi](./caltabosi)
 * [Italian Meatball](./italian-meatball)
 * [Chorizo Mexican](./chorizo-mexican)
 * [Chorizo Spaniol](./chorizo-spaniol)
-* [Mix Ciuperci](./mix-ciuperci/)
-* [Traditionali](./traditionali)
+* [Ciuperci si Ceapa](./ciuperci-ceapa/)
+* [Traditionali cu Usturoi](./traditionali)
 
