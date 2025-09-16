@@ -25,11 +25,11 @@ Un blender de bucatarie de dimensiuni mici, precum Nutribullet.
 
 ## Instructiuni
 
-Amestecati toate ingredientele si lasati-le la inmuiat cateva ore.  
-Transferati amestecul in blender si procesati pana obtineti un sos omogen.  
-Lasati la fermentat 3-5 zile pana cand dispare gustul amar.  
-Fierbeti amestecul timp de 5 minute, apoi portionati in borcane si depozitati la frigider.
+Amestecati toate ingredientele intr-un vas si lasati-le la inmuiat timp de cateva ore.  
+Transferati compozitia in blender si procesati pana obtineti un sos omogen.  
+Lasati amestecul la fermentat timp de 3-5 zile, amestecand zilnic, pana cand dispare gustul amar.  
+Fierbeti mustarul timp de 5 minute, portionati-l in borcane si depozitati-le la frigider.
 
 ## Notite
 
-Mustarul se pastreaza bine la frigider, insa dupa cateva luni isi va pierde din intensitatea gustului.
+Mustarul se pastreaza bine la frigider, insa dupa cateva luni isi va pierde din intensitate.
