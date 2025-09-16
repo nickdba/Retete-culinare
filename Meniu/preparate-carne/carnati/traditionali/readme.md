@@ -1,6 +1,6 @@
-# Traditionali
+# Carnati Traditionali cu Usturoi
 
-O varianta a retetei traditionale romanesti de carnati cu usturoi preparat in special de Craciun.  
+O varianta a retetei traditionale romanesti de carnati cu usturoi, preparata in special de Craciun.  
 
 ## Cuprins
 
@@ -11,18 +11,18 @@ O varianta a retetei traditionale romanesti de carnati cu usturoi preparat in sp
 ## Ingrediente
 
 - 1kg carne de porc cu peste 20% grasime
-- 50ml apa
+- 50ml-80ml, in functie de umiditatea amestecului
 - 15g sare
-- 12g usturoi
+- 10g usturoi
 - 5g paprika
 - 1g chili
-- 1g cimbru
+- 0.75g cimbru
 - 0.5g piper
 
 ## Instructiuni
 
 Amestecati bine toate ingredientele intr-un bol mare, pana cand compozitia devine omogena si carnea capata o textura lipicioasa.  
-Umpleti matele de porc (naturale sau din colagen) cu amestecul de ingrediente, folosind o masina de umplut carnati.
+Umpleti matele de porc (naturale sau din colagen) cu amestecul obtinut, folosind o masina de umplut carnati.
 
 ## Notite
 

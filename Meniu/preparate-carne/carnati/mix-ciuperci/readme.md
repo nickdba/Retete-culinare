@@ -12,16 +12,15 @@ O varianta de carnati din carne de vita si porc cu ceapa si ciuperci.
 
 - 600g carne porc
 - 400g carne vita
-- 100g ciuperci
-- 20ml apa
+- 200g ciuperci
 - 15g sare
 - 10g ceapa
-- 9g usturoi
+- 10g usturoi
 - 4g paprika
-- 1g chili
-- 0.5g piper
+- 1.5g chili
+- 1g piper
 - 0.5g maghiran
-- 0.5g fenicul
+- 0.5g ienibahar
 
 ## Instructiuni
 
