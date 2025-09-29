@@ -1,6 +1,6 @@
 # Coaste Afumate
 
-O varianta a retetei traditionale romanesti de carnati cu usturoi, preparata in special de Craciun.  
+O reteta stil texan de coaste afumate. 
 
 ## Cuprins
 
@@ -17,8 +17,10 @@ O varianta a retetei traditionale romanesti de carnati cu usturoi, preparata in 
 
 ## Instructiuni
 
-Amestecati bine toate ingredientele intr-un bol mare, pana cand compozitia devine omogena si carnea capata o textura lipicioasa.  
-Umpleti matele de porc (naturale sau din colagen) cu amestecul obtinut, folosind o masina de umplut carnati.
+Coastele trebuie gatite la temperatura mica de 120 grade celsius.
+2h in afumatoare
+1h invelite in staniol
+Apoi se ung cu sos BBQ si se mai lasa 5 minute.
 
 ## Notite
 

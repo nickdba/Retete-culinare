@@ -5,4 +5,5 @@
 ## Retete
 
 * [Coaste Afumate](./coaste-afumate)
+* [Jambon Taranesc](./jambon-taranesc/)
 
