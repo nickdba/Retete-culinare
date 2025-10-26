@@ -1,6 +1,6 @@
-# Cabanosi
+# Carnati Trandafir
 
-Cabanosi sunt o specialitate poloneza foarte populara si la noi.
+Carnatii trandafir facuti de casa sunt printre cei mai reusiti carnati dupa parerea mea. 
 
 ## Cuprins
 
@@ -11,11 +11,14 @@ Cabanosi sunt o specialitate poloneza foarte populara si la noi.
 ## Ingrediente
 
 - 1kg carne de porc tocata cu 30% grasime
-- 50ml apa
+- 80ml apa
 - 15g sare
-- 3g piper
-- 1g nucsoara
-- 1g chimen
+- 8g boia
+- 4g usturoi granule
+- 2g piper
+- 1g chilli
+- 1g ghimbir praf
+- 1g cimbru
 
 ## Instructiuni
 
@@ -23,7 +26,7 @@ Amestecati bine toate ingredientele intr-un bol mare, pana cand compozitia devin
 Umpleti matele de porc (naturale sau din colagen) cu amestecul de ingrediente, folosind o masina de umplut carnati.  
 Lasati carnatii la rece peste noapte pentru a permite intrepatrunderea aromelor.  
 Gatiti in afumatoare la temperatura foate joasa 70°C-80°C de grade pentru 2-3 h pana ce temperatura interna a carnatilor trece de 65°C.
-Carnatii trebuie sa capete o culoare rosiatica cu suprafata uscata si usor incretita.
+Carnatii trebuie sa capete o culoare rosiatica cu suprafata uscata.
 
 ## Notite
 
